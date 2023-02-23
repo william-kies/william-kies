@@ -7,7 +7,7 @@ Junior Web Developer
 After a few years of studies and experience in computer science, I decided to focus on web development. That's why today, I help professionals and individuals in their web projects. I have an RNCP title Web developer / mobile web (equivalent BAC + 2) from, LaPlateforme\_ 🇫🇷 School.
 
 * 🌍  I'm based in My Home
-* 🖥️  See my portfolio at [https://www.william-kies.fr](http://www.william-kies.fr)
+* 🖥️  See my portfolio at [https://www.william-kies.fr](http://william-kies.fr)
 * ✉️  You can contact me at [william.kies04@gmail.com](mailto:william.kies04@gmail.com)
 
 ### Skills
