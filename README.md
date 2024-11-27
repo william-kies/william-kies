@@ -162,7 +162,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/william-kies/william-kies/output/snake.svg" alt="Snake animation" />
-
-###
