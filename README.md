@@ -41,6 +41,9 @@
   Fort d'un parcours professionnel riche, je suis passionné par le web. Mon engagement envers l'excellence se traduit par des services de qualité que je vous propose, me positionnant ainsi comme le collaborateur idéal pour répondre à vos besoins.
 </p>
 
-<div align="center">
-  <img height="150" src="parcours.png"  />
-</div>
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
